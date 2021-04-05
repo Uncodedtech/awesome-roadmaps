@@ -16,6 +16,7 @@
 * [.net back-end Roadmap](https://github.com/saifaustcse/.net-developer-roadmap)
 * [ASP.NET Core Developer roadmap in 2019](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 * [Data science roadmap](https://github.com/MrMimic/data-scientist-roadmap)
+* [Data Engineer roadmap](https://github.com/Uncodedtech/data-engineer-roadmap)
 * [Hacker roadmap](https://github.com/Sundowndev/hacker-roadmap)
 * [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap)
 * [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap)
